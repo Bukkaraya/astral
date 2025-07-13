@@ -3,7 +3,20 @@
     "allow": [
       "Bash(go mod:*)",
       "Bash(go run:*)",
-      "Bash(go test:*)"
+      "Bash(go test:*)",
+      "Bash(rm:*)",
+      "Bash(mkdir:*)",
+      "Bash(go build:*)",
+      "Bash(mv:*)",
+      "Bash(cp:*)",
+      "Bash(curl:*)",
+      "Bash(lsof:*)",
+      "Bash(chmod:*)",
+      "Bash(pkill:*)",
+      "Bash(find:*)",
+      "Bash(go clean:*)",
+      "Bash(go vet:*)",
+      "Bash(goimports:*)"
     ],
     "deny": []
   }
