@@ -1,10 +1,10 @@
-# Simple Temporal Workflow
+# Astral
 
-A basic Go application demonstrating Temporal workflow patterns with activities.
+A Rails-like framework for Temporal workflows in Go. Build robust distributed applications with automatic code generation, type-safe clients, and convention-over-configuration patterns.
 
 ## Overview
 
-This project implements a simple Temporal workflow that executes two sequential activities: processing and validation.
+Astral provides Rails-like conventions for building Temporal applications, including automatic client generation, structured project layouts, and developer-friendly tooling.
 
 ## Files
 
